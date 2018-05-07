@@ -158,7 +158,20 @@
 		</font></p>
 	</blockquote>
 	</div></div></div>
+<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<blockquote>
+		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/podcasts/Lobbying.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">Conclusion &amp; Reflection </font></h3><br>
+		<audio controls>
+	  	  <source src="audios/conclusion.mp3" type="audio/mpeg"> 
+		</audio>
 
+		<p><font color="white">
+		&emsp;&emsp;&emsp;&emsp;Conclusion<br><br><br><br>
+
+		</font></p>
+	</blockquote>
+	</div></div></div>
 
 
 	</body>
