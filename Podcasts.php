@@ -15,6 +15,35 @@
 <body>
 <h2><font color="white">Podcasts</font></h2><br>
 
+<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<blockquote>
+		<img style="float:left;width:250px;height:300px;margin-right:30px;" src="img/podcasts/intro.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">More Than Meat - Introduction </font></h3><br>
+		<audio controls>
+		  <source src="audios/intro.mp3" type="audio/wav">
+		Your browser does not support the audio element.
+		</audio>
+
+		<p><font color="white">
+		<br>Hi! My name is Bri, and you’re listening to More than Meat. More than Meat is a podcast 
+		series that explores the ins and outs of animal welfare legislation. In the next few episodes, we will be looking 
+		at different laws related to animal welfare and animal agriculture. This series seeks to interrogate the meat industry 
+		through a legislative framework. We will take a closer look at different components of the livestock industry and related 
+		laws to determine implications for human health, environmental sustainability, labor conditions, and animal welfare. Naturally, 
+		many of the laws and topics we will focus on are directly related to animal welfare; however, we plan on identifying and elaborating 
+		on how these laws are connected to health, the environment, and labor. We have conducted interviews with public policy experts, 
+		students, animal rights activists, and grassroots organizers to understand the full picture on how animal rights legislation is 
+		perceived. We also distributed a survey to gather information about what motivates people to vote on animal welfare legislation. 
+		Ultimately, More than Meat seeks to interrogate the current livestock industry and determine whether the current system is working 
+		in terms of human health, environmental sustainability, labor conditions, and animal welfare. We’ll also examine the barriers to 
+		effective animal welfare legislation. Through More than Meat, we hope to educate our listeners about challenges in formulating 
+		effective animal welfare legislation that protects animals raised for consumption, human health, livestock industry workers, and 
+		the environment. 
+ 
+		</font></p>
+	</blockquote>
+	</div></div></div>
+
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
@@ -26,16 +55,16 @@
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
+		<br>I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
 		Today we will be discussing Prevent Cruelty California, a bill intended to close the loopholes that 
 		were left open on Proposition 2. Proposition 2, which passed in 2008, aimed to outlaw battery cages in California factory farms, 
 		and mandated that animals kept at these facilities must, at a minimum, be granted sufficient 
 		space to stretch, turn around, and lie down. However, since the passage of the proposition, the 
 		California Department of Food and Agriculture has taken no measures to enforce the law prescribed 
-		by Proposition 2. Hence, many animal welfare organizations, and their allies, have led a canvassing 
-		campaign. As of April 24th, Prevent Cruelty California has received over 600,000 signatures, ensuring 
-		that a spot for the Bill on the November 2018 ballot. Then it will be up to Californian Voters to 
-		decide if they want the bill to pass or not.  
+		by Proposition 2. Hence, many animal welfare organizations and their allies, have led a canvassing 
+		campaign. As of 4/24, Prevent Cruelty California has received > 600,000 signatures, ensuring 
+		that a spot for the Bill on the Nov 2018 ballot. Then it will be up to CA Voters to 
+		decide if they want the bill to pass.  
 		</font></p>
 	</blockquote>
 	</div></div></div>
@@ -49,9 +78,9 @@
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
+		<br>I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
 		Today we will be discussing Prevent Cruelty California, a bill intended to close the loopholes that 
-		were left open on Proposition 2. Proposition 2, which passed in 2008, aimed to outlaw battery cages in California factory farms, 
+		were left open on Proposition 2 which passed in 2008, aimed to outlaw battery cages in California factory farms, 
 		and mandated that animals kept at these facilities must, at a minimum, be granted sufficient 
 		space to stretch, turn around, and lie down. However, since the passage of the proposition, the 
 		California Department of Food and Agriculture has taken no measures to enforce the law prescribed 
@@ -73,7 +102,7 @@
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;Hello, welcome to another episode of More than Meat. Today, we are going to explore the history 
+		<br>Hello, welcome to another episode of More than Meat. Today, we are going to explore the history 
 		of federal food safety laws and identify human health as a driving point for livestock-related 
 		legislation. Many of the federal laws pertaining animal agriculture are related to food safety. 
 		This is understandably the case, as most people are concerned about the health implications of 
@@ -92,7 +121,7 @@
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;Hello, I’m Heliya Izadpanah, and you’re listening to More Than Meat, a podcast series on Animal 
+		<br>Hello, I’m Heliya Izadpanah, and you’re listening to More Than Meat, a podcast series on Animal 
 		Agriculture legislation. Today we will be discussing antibiotic use on factory farms, their impact 
 		on human populations, and relevant lobbying and legislation. <br>
 		The majority of antibiotics on the market today are used on “farm” animals living in factory farms. 
@@ -109,14 +138,14 @@
 
 	<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:200px;margin-right:30px;" src="img/podcasts/Local_Butcher_Shop_PIC.jpeg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:220px;margin-right:30px;" src="img/podcasts/Local_Butcher_Shop_PIC.jpeg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">The Local Butcher Shop</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/local_butcher.mp3" type="audio/mpeg"> 
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;This is More Than Meat, I’m Alicia Lai. Previously, we explored in depth about the problematic 
+		<br>This is More Than Meat, I’m Alicia Lai. Previously, we explored in depth about the problematic 
 		treatment of animals and workers in the current meat industry. You may be wondering what you could 
 		do as a consumer to address these issues. This is a complex question with many different answers. 
 		One solution is to support your local butcher. In this podcast, we interviewed Monica Rocchino, 
@@ -138,7 +167,7 @@
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;The Humane Slaughter Act became effective on August 27, 1958. The overall goal of the act was to decrease 
+		<br>The Humane Slaughter Act became effective on August 27, 1958. The overall goal of the act was to decrease 
 		suffering of livestock during slaughter. The act requires that “all animals are rendered insensible to pain by a single blow or 
 		gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut.” 
 		The methods for sedation differ according to the size of the animal. For example, bovines are much larger than most livestock and thusly, 
@@ -152,14 +181,14 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/Lobbying.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:320px;margin-right:30px;" src="img/podcasts/Lobbying.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Lobbying in Animal Welfare Leg</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/Lobbying.mp3" type="audio/mpeg"> 
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;I’m Bri, and you’re listening to More than Meat. In this episode, we will be discussing lobbying in animal 
+		<br>I’m Bri, and you’re listening to More than Meat. In this episode, we will be discussing lobbying in animal 
 		welfare legislation in the state of California. Who are the big players? What industries are being represented? Most importantly, 
 		is lobbying preventing the establishment of effective animal welfare legislation? Today we will be examining the different players 
 		that lobby for and against animal agriculture legislation. Many of the big players for animal welfare are names you would probably 
@@ -181,7 +210,7 @@
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;Hello, this is Katie and you have reached the end of More than Meat. In this episode, we will reflect 
+		<br>Hello, this is Katie and you have reached the end of More than Meat. In this episode, we will reflect 
 		on our major findings and discuss how we can go about to improve the meat industry.  
 		<br><br><br><br>
 
