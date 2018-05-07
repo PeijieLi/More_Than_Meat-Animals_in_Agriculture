@@ -41,74 +41,30 @@
 		the environment. 
  
 		</font></p>
+		<a href="pdf/Intro.pdf" download><font color="white">Download Script</font></a>
 	</blockquote>
 	</div></div></div>
 
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/prevent1.png" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
-		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 1) </font></h3><br>
+		<img style="float:left;width:200px;height:270px;margin-right:30px;" src="img/podcasts/human_slaughter_act.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">Humane Slaughter Act</font></h3><br>
 		<audio controls>
-		  <source src="audios/prevent_cruelty.wav" type="audio/wav">
-		Your browser does not support the audio element.
+	  	  <source src="audios/Humane_Slaughter_Podcast.mp3" type="audio/mpeg"> 
 		</audio>
 
 		<p><font color="white">
-		<br>I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
-		Today we will be discussing Prevent Cruelty California, a bill intended to close the loopholes that 
-		were left open on Proposition 2. Proposition 2, which passed in 2008, aimed to outlaw battery cages in California factory farms, 
-		and mandated that animals kept at these facilities must, at a minimum, be granted sufficient 
-		space to stretch, turn around, and lie down. However, since the passage of the proposition, the 
-		California Department of Food and Agriculture has taken no measures to enforce the law prescribed 
-		by Proposition 2. Hence, many animal welfare organizations and their allies, have led a canvassing 
-		campaign. As of 4/24, Prevent Cruelty California has received > 600,000 signatures, ensuring 
-		that a spot for the Bill on the Nov 2018 ballot. Then it will be up to CA Voters to 
-		decide if they want the bill to pass.  
-		</font></p>
-	</blockquote>
-	</div></div></div>
-<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<blockquote>
-		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/prevent2.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
-		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 2) </font></h3><br>
-		<audio controls>
-		  <source src="audios/prevent_cruelty1.wav" type="audio/wav">
-		Your browser does not support the audio element.
-		</audio>
-
-		<p><font color="white">
-		<br>I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
-		Today we will be discussing Prevent Cruelty California, a bill intended to close the loopholes that 
-		were left open on Proposition 2 which passed in 2008, aimed to outlaw battery cages in California factory farms, 
-		and mandated that animals kept at these facilities must, at a minimum, be granted sufficient 
-		space to stretch, turn around, and lie down. However, since the passage of the proposition, the 
-		California Department of Food and Agriculture has taken no measures to enforce the law prescribed 
-		by Proposition 2. Hence, many animal welfare organizations, and their allies, have led a canvassing 
-		campaign. As of April 24th, Prevent Cruelty California has received over 600,000 signatures, ensuring 
-		that a spot for the Bill on the November 2018 ballot. Then it will be up to Californian Voters to 
-		decide if they want the bill to pass or not.  
-		</font></p>
-	</blockquote>
-	</div></div></div>
-
-<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<blockquote>
-		<img style="float:left;width:200px;height:270px;margin-right:30px;" src="img/podcasts/federal_food_safety.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
-		<h3><font color="white">Federal Food Safety and Animal Welfare</font></h3><br>
-		<audio controls>
-		  <source src="audios/Federal_Food_Safety_and_Animal_Welfare.mp3" type="audio/mpeg">
-		Your browser does not support the audio element.
-		</audio>
-
-		<p><font color="white">
-		<br>Hello, welcome to another episode of More than Meat. Today, we are going to explore the history 
-		of federal food safety laws and identify human health as a driving point for livestock-related 
-		legislation. Many of the federal laws pertaining animal agriculture are related to food safety. 
-		This is understandably the case, as most people are concerned about the health implications of 
-		what they are eating, especially considering of the risk of food poisoning.<br><br><br><br>
+		<br>The Humane Slaughter Act became effective on August 27, 1958. The overall goal of the act was to decrease 
+		suffering of livestock during slaughter. The act requires that “all animals are rendered insensible to pain by a single blow or 
+		gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut.” 
+		The methods for sedation differ according to the size of the animal. For example, bovines are much larger than most livestock and thusly, 
+		require electronarcosis, which is essentially direct electrical stunning. The act itself does not mention specific methods, but rather 
+		offers a general method and therefore, authorizes the U.S Department of Agriculture to create more specific regulations on humane methods 
+		of slaughter.<br>
 
 		</font></p>
+		<a href="pdf/Human_Slaughter.pdf" download><font color="white">Download Script</font></a>
 	</blockquote>
 	</div></div></div>
 
@@ -133,49 +89,77 @@
 		runs rampant in factory farms.
 
 		</font></p>
+		<a href="pdf/Antibiotic_Use.pdf" download><font color="white">Download Script</font></a>
 	</blockquote>
 	</div></div></div>
-
-	<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<blockquote>
-		<img style="float:left;width:200px;height:220px;margin-right:30px;" src="img/podcasts/Local_Butcher_Shop_PIC.jpeg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
-		<h3><font color="white">The Local Butcher Shop</font></h3><br>
-		<audio controls>
-	  	  <source src="audios/local_butcher.mp3" type="audio/mpeg"> 
-		</audio>
-
-		<p><font color="white">
-		<br>This is More Than Meat, I’m Alicia Lai. Previously, we explored in depth about the problematic 
-		treatment of animals and workers in the current meat industry. You may be wondering what you could 
-		do as a consumer to address these issues. This is a complex question with many different answers. 
-		One solution is to support your local butcher. In this podcast, we interviewed Monica Rocchino, 
-		the owner of The Local Butcher Shop in Berkeley, to learn more about what that means.
-		<br>
-
-		</font></p>
-	</blockquote>
-	</div></div></div>
-
-	
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:270px;margin-right:30px;" src="img/podcasts/human_slaughter_act.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
-		<h3><font color="white">Humane Slaughter Act</font></h3><br>
+		<img style="float:left;width:200px;height:270px;margin-right:30px;" src="img/podcasts/federal_food_safety.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">Federal Food Safety and Animal Welfare</font></h3><br>
 		<audio controls>
-	  	  <source src="audios/Humane_Slaughter_Podcast.mp3" type="audio/mpeg"> 
+		  <source src="audios/Federal_Food_Safety_and_Animal_Welfare.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
 		</audio>
 
 		<p><font color="white">
-		<br>The Humane Slaughter Act became effective on August 27, 1958. The overall goal of the act was to decrease 
-		suffering of livestock during slaughter. The act requires that “all animals are rendered insensible to pain by a single blow or 
-		gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut.” 
-		The methods for sedation differ according to the size of the animal. For example, bovines are much larger than most livestock and thusly, 
-		require electronarcosis, which is essentially direct electrical stunning. The act itself does not mention specific methods, but rather 
-		offers a general method and therefore, authorizes the U.S Department of Agriculture to create more specific regulations on humane methods 
-		of slaughter.<br>
+		<br>Hello, welcome to another episode of More than Meat. Today, we are going to explore the history 
+		of federal food safety laws and identify human health as a driving point for livestock-related 
+		legislation. Many of the federal laws pertaining animal agriculture are related to food safety. 
+		This is understandably the case, as most people are concerned about the health implications of 
+		what they are eating, especially considering of the risk of food poisoning.<br><br>
 
 		</font></p>
+		<a href="pdf/Federal_Food_Safety_Laws_and_Animal_Agriculture.pdf" download><font color="white">Download Script</font></a>
+	</blockquote>
+	</div></div></div>
+
+<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<blockquote>
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/prevent1.png" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 1) </font></h3><br>
+		<audio controls>
+		  <source src="audios/prevent_cruelty.wav" type="audio/wav">
+		Your browser does not support the audio element.
+		</audio>
+
+		<p><font color="white">
+		<br>I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
+		Today we will be discussing Prevent Cruelty California, a bill intended to close the loopholes that 
+		were left open on Proposition 2. Proposition 2, which passed in 2008, aimed to outlaw battery cages in California factory farms, 
+		and mandated that animals kept at these facilities must, at a minimum, be granted sufficient 
+		space to stretch, turn around, and lie down. However, since the passage of the proposition, the 
+		California Department of Food and Agriculture has taken no measures to enforce the law prescribed 
+		by Proposition 2. Hence, many animal welfare organizations and their allies, have led a canvassing 
+		campaign. As of 4/24, Prevent Cruelty California has received > 600,000 signatures, ensuring 
+		that a spot for the Bill on the Nov 2018 ballot. Then it will be up to CA Voters to 
+		decide if they want the bill to pass.  
+		</font></p>
+		<a href="pdf/Prevent_Cruelty_California.pdf" download><font color="white">Download Script</font></a>
+	</blockquote>
+	</div></div></div>
+<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<blockquote>
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/prevent2.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 2) </font></h3><br>
+		<audio controls>
+		  <source src="audios/prevent_cruelty1.wav" type="audio/wav">
+		Your browser does not support the audio element.
+		</audio>
+
+		<p><font color="white">
+		<br>I’m Heliya, and you’re listening to More Than Meat, a podcast series on Animal Agriculture legislation. 
+		Today we will be discussing Prevent Cruelty California, a bill intended to close the loopholes that 
+		were left open on Proposition 2 which passed in 2008, aimed to outlaw battery cages in California factory farms, 
+		and mandated that animals kept at these facilities must, at a minimum, be granted sufficient 
+		space to stretch, turn around, and lie down. However, since the passage of the proposition, the 
+		California Department of Food and Agriculture has taken no measures to enforce the law prescribed 
+		by Proposition 2. Hence, many animal welfare organizations, and their allies, have led a canvassing 
+		campaign. As of April 24th, Prevent Cruelty California has received over 600,000 signatures, ensuring 
+		that a spot for the Bill on the November 2018 ballot. Then it will be up to Californian Voters to 
+		decide if they want the bill to pass or not.  
+		</font></p>
+		<a href="pdf/Prevent_Cruelty_California.pdf" download><font color="white">Download Script</font></a>
 	</blockquote>
 	</div></div></div>
 
@@ -199,8 +183,33 @@
 		effective animal agriculture legislation. 
 
 		</font></p>
+		<a href="pdf/Lobbying_in_Animal_Welfare_Leg.pdf" download><font color="white">Download Script</font></a>
 	</blockquote>
 	</div></div></div>
+
+
+
+	<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<blockquote>
+		<img style="float:left;width:200px;height:220px;margin-right:30px;" src="img/podcasts/Local_Butcher_Shop_PIC.jpeg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<h3><font color="white">Sustainable Meat</font></h3><br>
+		<audio controls>
+	  	  <source src="audios/local_butcher.mp3" type="audio/mpeg"> 
+		</audio>
+
+		<p><font color="white">
+		<br>This is More Than Meat, I’m Alicia Lai. Previously, we explored in depth about the problematic 
+		treatment of animals and workers in the current meat industry. You may be wondering what you could 
+		do as a consumer to address these issues. This is a complex question with many different answers. 
+		One solution is to support your local butcher. In this podcast, we interviewed Monica Rocchino, 
+		the owner of The Local Butcher Shop in Berkeley, to learn more about what that means.
+		<br>
+
+		</font></p>
+
+	</blockquote>
+	</div></div></div>
+
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
 		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/conclusion.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
@@ -212,9 +221,10 @@
 		<p><font color="white">
 		<br>Hello, this is Katie and you have reached the end of More than Meat. In this episode, we will reflect 
 		on our major findings and discuss how we can go about to improve the meat industry.  
-		<br><br><br><br>
+		<br><br>
 
 		</font></p>
+		<a href="pdf/conclusion.pdf" download><font color="white">Download Script</font></a>
 	</blockquote>
 	</div></div></div>
 
