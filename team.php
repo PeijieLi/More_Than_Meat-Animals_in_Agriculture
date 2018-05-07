@@ -61,7 +61,7 @@
 
 	<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:220px;height:250px;margin-right:30px;" src="img/team/katie.JPG" class="attachment-thumbnail size-thumbnail" alt="Katie Hin">		
+		<img style="float:left;width:220px;height:250px;margin-right:30px;" src="img/team/katie.jpg" class="attachment-thumbnail size-thumbnail" alt="Katie Hin">		
 		<p><font color="white">
 		&emsp;&emsp;&emsp;&emsp;Katie is second year Conservation and Resource Studies Major in the College of Natural Resources. 
 		Her area of interest is centered around the Food Systems, with an emphasis in Health, Food Security, 
@@ -105,7 +105,7 @@
 
 	<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:right;width:210px;height:240px;margin-left:30px;" src="img/team/kalena.jpg" class="attachment-thumbnail size-thumbnail" alt="Kalena Gottwald">		
+		<img style="float:right;width:210px;height:240px;margin-left:30px;" src="img/team/kalena.JPG" class="attachment-thumbnail size-thumbnail" alt="Kalena Gottwald">		
 		<p><font color="white">
 		&emsp;&emsp;&emsp;&emsp;Kalena is a second-year majoring in Integrative Biology and minoring in Nutritional Sciences. 
 		She hopes to eventually apply to veterinary school to work as a large animal veterinarian. 
@@ -117,7 +117,7 @@
 	</blockquote>
 	</div></div></div>
 
-	
+
 
 	</body>
 </html>
