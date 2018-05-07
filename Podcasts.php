@@ -47,7 +47,7 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/prevent1.png" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 1) </font></h3><br>
 		<audio controls>
 		  <source src="audios/prevent_cruelty.wav" type="audio/wav">
@@ -70,7 +70,7 @@
 	</div></div></div>
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/prevent2.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 2) </font></h3><br>
 		<audio controls>
 		  <source src="audios/prevent_cruelty1.wav" type="audio/wav">
@@ -114,7 +114,7 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/antibiotics.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Use of Antibiotics</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/Antibiotics.wav" type="audio/wav"> 
