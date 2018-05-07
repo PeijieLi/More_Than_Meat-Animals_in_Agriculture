@@ -18,7 +18,7 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:270px;margin-right:20px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 1) </font></h3><br>
 		<audio controls>
 		  <source src="audios/prevent_cruelty.wav" type="audio/wav">
@@ -41,7 +41,7 @@
 	</div></div></div>
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:270px;margin-right:20px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">More Than Meat - Prevent Cruelty California (Part 2) </font></h3><br>
 		<audio controls>
 		  <source src="audios/prevent_cruelty1.wav" type="audio/wav">
@@ -65,7 +65,7 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:270px;margin-right:20px;" src="img/podcasts/federal_food_safety.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:270px;margin-right:30px;" src="img/podcasts/federal_food_safety.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Federal Food Safety and Animal Welfare</font></h3><br>
 		<audio controls>
 		  <source src="audios/Federal_Food_Safety_and_Animal_Welfare.mp3" type="audio/mpeg">
@@ -85,7 +85,7 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:270px;margin-right:20px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/team/no-image.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Use of Antibiotics</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/Antibiotics.wav" type="audio/wav"> 
@@ -109,7 +109,7 @@
 
 	<div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/podcasts/Local_Butcher_Shop_PIC.jpeg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:200px;margin-right:30px;" src="img/podcasts/Local_Butcher_Shop_PIC.jpeg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">The Local Butcher Shop</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/local_butcher.mp3" type="audio/mpeg"> 
@@ -121,7 +121,7 @@
 		do as a consumer to address these issues. This is a complex question with many different answers. 
 		One solution is to support your local butcher. In this podcast, we interviewed Monica Rocchino, 
 		the owner of The Local Butcher Shop in Berkeley, to learn more about what that means.
-		<br><br><br><br>
+		<br>
 
 		</font></p>
 	</blockquote>
@@ -131,14 +131,20 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/podcasts/human_slaughter_act.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:270px;margin-right:30px;" src="img/podcasts/human_slaughter_act.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Humane Slaughter Act</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/Humane_Slaughter_Podcast.mp3" type="audio/mpeg"> 
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;Human Slaughter Podcast<br><br><br><br>
+		&emsp;&emsp;&emsp;&emsp;The Humane Slaughter Act became effective on August 27, 1958. The overall goal of the act was to decrease 
+		suffering of livestock during slaughter. The act requires that “all animals are rendered insensible to pain by a single blow or 
+		gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut.” 
+		The methods for sedation differ according to the size of the animal. For example, bovines are much larger than most livestock and thusly, 
+		require electronarcosis, which is essentially direct electrical stunning. The act itself does not mention specific methods, but rather 
+		offers a general method and therefore, authorizes the U.S Department of Agriculture to create more specific regulations on humane methods 
+		of slaughter.<br>
 
 		</font></p>
 	</blockquote>
@@ -146,28 +152,38 @@
 
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/podcasts/Lobbying.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:300px;margin-right:30px;" src="img/podcasts/Lobbying.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Lobbying in Animal Welfare Leg</font></h3><br>
 		<audio controls>
 	  	  <source src="audios/Lobbying.mp3" type="audio/mpeg"> 
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;Introduction: <br><br><br><br>
+		&emsp;&emsp;&emsp;&emsp;I’m Bri, and you’re listening to More than Meat. In this episode, we will be discussing lobbying in animal 
+		welfare legislation in the state of California. Who are the big players? What industries are being represented? Most importantly, 
+		is lobbying preventing the establishment of effective animal welfare legislation? Today we will be examining the different players 
+		that lobby for and against animal agriculture legislation. Many of the big players for animal welfare are names you would probably 
+		recognize - The Humane Society and ASPCA, among others. These organizations use advocacy, grassroots organizing, and other tools to 
+		work with legislators to promote protections for animals. After, we’ll look at some of the industries that lobby against the creation 
+		of animal welfare legislation. These industries are grounded in economic interest, not ideology, an interesting dichotomy with the animal 
+		advocacy groups. Finally, we’ll conclude with an evaluation of whether interests groups are preventing the establishment of 
+		effective animal agriculture legislation. 
 
 		</font></p>
 	</blockquote>
 	</div></div></div>
 <div class="vc-column wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<blockquote>
-		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/podcasts/Lobbying.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
+		<img style="float:left;width:200px;height:200px;margin-right:20px;" src="img/conclusion.jpg" class="attachment-thumbnail size-thumbnail" alt="Heliya Izadpanah">	
 		<h3><font color="white">Conclusion &amp; Reflection </font></h3><br>
 		<audio controls>
 	  	  <source src="audios/conclusion.mp3" type="audio/mpeg"> 
 		</audio>
 
 		<p><font color="white">
-		&emsp;&emsp;&emsp;&emsp;Conclusion<br><br><br><br>
+		&emsp;&emsp;&emsp;&emsp;Hello, this is Katie and you have reached the end of More than Meat. In this episode, we will reflect 
+		on our major findings and discuss how we can go about to improve the meat industry.  
+		<br><br><br><br>
 
 		</font></p>
 	</blockquote>
